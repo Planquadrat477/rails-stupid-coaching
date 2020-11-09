@@ -1,0 +1,31 @@
+ $gray: #F4F4F4;
+
+ body {
+   background: $gray; // Using this variable
+ }
+
+h1{
+  font-size: 50px;
+  margin-left: 10px;
+}
+
+a {
+  color: blue;
+}
+
+.question {
+  border-left: 5px solid grey;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-left: 15px;
+
+}
+
+.answer {
+  border-left: 5px solid gray;
+  padding: 10px;
+  background: yellow;
+  margin-left: 15px;
+}
+
+
